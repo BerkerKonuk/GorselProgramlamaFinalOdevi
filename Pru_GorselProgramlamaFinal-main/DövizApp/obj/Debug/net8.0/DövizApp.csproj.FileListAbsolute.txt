@@ -1,0 +1,28 @@
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.exe
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.deps.json
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.runtimeconfig.json
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.dll
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.pdb
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.AssemblyInfoInputs.cache
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.AssemblyInfo.cs
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.dll
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\refint\DövizApp.dll
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.pdb
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.genruntimeconfig.cache
+C:\Users\Abdul Samet\source\repos\DövizApp\DövizApp\obj\Debug\net8.0\ref\DövizApp.dll
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.exe
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.deps.json
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.runtimeconfig.json
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.dll
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\bin\Debug\net8.0\DövizApp.pdb
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.AssemblyInfoInputs.cache
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.AssemblyInfo.cs
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.dll
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\refint\DövizApp.dll
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.pdb
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\DövizApp.genruntimeconfig.cache
+C:\Users\Abdul Samet\Desktop\Görsel Programlama Final\DövizApp\DövizApp\obj\Debug\net8.0\ref\DövizApp.dll
