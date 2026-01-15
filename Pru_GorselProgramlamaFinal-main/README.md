@@ -13,7 +13,7 @@ Bu proje, **Frankfurter API** altyapısını kullanarak anlık döviz kurların�
 | **Bölüm** | Bilgisayar Programcılığı |
 | **Ders** | Görsel Programlama (BIP2033) |
 | **Ders Sorumlusu** | Öğr. Gör. Emrah SARIÇİÇEK |
-| **Teslim Tarihi** | 14.01.2026 |
+| **Teslim Tarihi** | 16.01.2026 |
 
 ---
 
